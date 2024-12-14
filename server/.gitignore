@@ -1,0 +1,34 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folder
+env/
+venv/
+*.env
+
+# FastAPI app build files (if applicable)
+*.db
+*.sqlite3
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Python distribution files
+*.egg
+*.egg-info
+dist/
+build/
+
+# Local environment variables file (useful for secrets or config)
+.env
+
+# Vercel-specific files (optional)
+.vercel/
+
+# Other system-specific files
+.DS_Store
+Thumbs.db
