@@ -10,5 +10,17 @@
         "name": "nizam",
         "email": "nizam1@gmail.com",
         "password": "$2b$12$qdCZGBeLoaxw6UQzzJRx6.HHInjm62KXJ5PGQKIYaTzshN8VUvQRO"
+    },
+    {
+        "id": "2024-12-15T14:32:41.182733",
+        "name": "test",
+        "email": "test@gmail.com",
+        "password": "$2b$12$MK/Ywc3UJvD/JExToStKueHqqp6OL8MHhBji1Za0Z8CmbaVH3QNXS"
+    },
+    {
+        "id": "2024-12-15T15:25:26.240393",
+        "name": "test2",
+        "email": "test2@gmail.com",
+        "password": "$2b$12$WesnCthuA4p84stHru.XJ.Put2uKxEoK1euHu.m6RdEvLDFO9mMQ6"
     }
 ]
